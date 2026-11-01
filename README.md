@@ -65,5 +65,14 @@ I enjoy learning new technologies, solving problems, and developing real-world a
 - Portfolio: [My Portfolio](https://duvvarijahnavi.github.io)
 
 ---
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=duvvarijahnavi&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duvvarijahnavi&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
 ⭐ Always learning, building and improving!
