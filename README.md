@@ -23,6 +23,20 @@ I enjoy learning new technologies, solving problems, and developing real-world a
 - **Machine Learning:** Data preprocessing, EDA, Model Training
 - **Generative AI:** LLMs, RAG, Embeddings, Vector Databases
 - **Tools:** Git, GitHub, VS Code, Streamlit, FastAPI, MySQL
+- ### 💻 Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,fastapi" />
+</p>
+
+### 📊 Data Science & Machine Learning
+
+<p align="left">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
 
 ## 📌 Featured Projects
 
